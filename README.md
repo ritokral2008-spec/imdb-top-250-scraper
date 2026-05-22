@@ -92,7 +92,8 @@ IMDbTop250Scraper/
 │   └── ParseHelper.cs
 │
 ├── MovieForm.cs
-└── Program.cs
+├── Program.cs
+└── movies.db
 ```
 
 ---

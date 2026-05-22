@@ -89,11 +89,10 @@ IMDbTop250Scraper/
 │   └── ExcelExportService.cs
 │
 ├── Helpers/
-│   └── ThemeHelper.cs
+│   └── ParseHelper.cs
 │
-├── Form1.cs
-├── Program.cs
-└── movies.db
+├── MovieForm.cs
+└── Program.cs
 ```
 
 ---

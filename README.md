@@ -193,10 +193,10 @@ During this project I practiced:
 
 ## 👨‍💻 Author
 
-**Nikita**  
+**Domino**  
 Junior C# / .NET Developer
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/ritokral2008-spec
 
 ---
 

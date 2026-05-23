@@ -12,19 +12,9 @@ Supports **web scraping, filtering, sorting, SQLite storage, Excel export, and d
 
 ---
 
-## 📸 Preview
+## Download
 
-### Main Window
-![Main Window](screenshots/main.png)
-
-### Dark Theme
-![Dark Theme](screenshots/dark-theme.png)
-
-### Filtering
-![Filtering](screenshots/filter.png)
-
-### Excel Export
-![Excel Export](screenshots/excel.png)
+Ready-to-run version available in **Releases**
 
 ---
 
@@ -57,6 +47,22 @@ Supports **web scraping, filtering, sorting, SQLite storage, Excel export, and d
 | **SQLite-net** | Local database |
 | **ClosedXML** | Excel export |
 | **LINQ** | Filtering & sorting |
+
+---
+
+## 📸 Preview
+
+### Main Window
+![Main Window](screenshots/main.png)
+
+### Dark Theme
+![Dark Theme](screenshots/dark-theme.png)
+
+### Filtering
+![Filtering](screenshots/filter.png)
+
+### Excel Export
+![Excel Export](screenshots/excel.png)
 
 ---
 

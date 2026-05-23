@@ -20,6 +20,9 @@ Supports **web scraping, filtering, sorting, SQLite storage, Excel export, and d
 ### Dark Theme
 ![Dark Theme](screenshots/dark-theme.png)
 
+### Filtering
+![Filtering](screenshots/filter.png)
+
 ### Excel Export
 ![Excel Export](screenshots/excel.png)
 

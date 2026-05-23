@@ -263,6 +263,11 @@ obj/
 .vs/
 *.user
 *.db
+bin/
+obj/
+.vs/
+.playwright/
+*.exe
 
 # Others
 ClientBin/

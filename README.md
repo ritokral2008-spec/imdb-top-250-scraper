@@ -14,7 +14,7 @@ Supports **web scraping, filtering, sorting, SQLite storage, Excel export, and d
 
 ## Download
 
-Ready-to-run version available in **Releases**
+⬇ **Download ready-to-run version from Releases**
 
 ---
 
